@@ -1,7 +1,7 @@
 /**
  * Ce logiciel permet de crypter et de decrypter des messages secrets.
- * @author Dyna Mehenni
- * Code Permanent: MEHD84580003
+ * @author HIDE
+ * Code Permanent: HIDE
  * Cours : INF1120
  * @version 26/03/2023
  */
