@@ -1,7 +1,7 @@
 /**
  * Ce programme permet d'effectuer la facturation pour
  * la vente de billets dans une station de ski alpin.
- * auteure: Dyna Mehenni MEHD84580003
+ * auteure: HIDE
  */
 public class FacturationStationSki {
 
