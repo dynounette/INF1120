@@ -1,0 +1,68 @@
+CODE PERMANENT : MEHD84580003
+NOM            : Mehenni Dyna
+COURRIEL       : mehenni.dyna@courrier.uqam.ca
+CORRECTION TP1 - INF1120-20 H23
+NOTE FINALE : 92.3 /100
+Note - avant pénalité : (92.3/100)
+Pénalités (sur la note sur 100) (-)
+Explication des pénalités (s'il y a lieu) :
+
+CORRECTION DU CODE (34/40)
+C1. Préambule du fichier - Bloc Javadoc (1.5/2)
+Explication ou exemples d'erreurs (s'il y a lieu) :
+(-0.5)
+Vous n'avez pas ajouté la version.
+
+C2. Commentaires dans le code (5/5)
+Explication ou exemples d'erreurs (s'il y a lieu) :
+
+C3. Qualité du code en général (11/14)
+Explication ou exemples d'erreurs (s'il y a lieu) :
+(-3)
+Il faut éviter la répétition de code inutile. Par exemple, vous auriez dû 
+valider une seule fois le nombre de billets au lieu de répéter la validation à 
+plusieurs reprises. 
+C4. Respect du style Java (10/10)
+Explication ou exemples d'erreurs (s'il y a lieu) :
+
+C5. Utilisation de constantes (6.5/9)
+Explication ou exemples d'erreurs (s'il y a lieu) :
+(-1)
+Les constantes doivent être déclarées au niveau de la classe public static final.
+
+(-1.5)
+Vous auriez dû déclarer plus de constantes. Par exemple, les messages de
+sollicitation et les menus doivent être déclarés comme des constantes.
+CORRECTION DE L'EXÉCUTION (53.5/55 = 58.3/60)
+E1. Présentation du logiciel (1/1)
+Explication ou exemples d'erreurs (s'il y a lieu) :
+
+E2. Validation du choix au menu principal (7/7)
+Explication ou exemples d'erreurs (s'il y a lieu) :
+
+E3.1 Option 1 : Vente de billets – Validation de la période (12/12)
+Explication ou exemples d'erreurs (s'il y a lieu) :
+
+E3.2 Option 1 : Vente de billets – Validation de la tranche d’âges (9/9)
+Explication ou exemples d'erreurs (s'il y a lieu) :
+
+E3.3 Option 1 : Vente de billets – Validation du nombre de billets (9/9)
+Explication ou exemples d'erreurs (s'il y a lieu) :
+
+E3.4 Option 1 : Vente de billets – Affichage facture (7/8)
+Explication ou exemples d'erreurs (s'il y a lieu) :
+(-1)
+L'affichage n'est pas exactement conforme aux spécifications
+(voir exemples d'exécution fournis avec le TP).
+E4 Option 2 : Consultation des recettes (4/4)
+Explication ou exemples d'erreurs (s'il y a lieu) :
+
+E5. Option 3 : Réinitialisation (3/3)
+Explication ou exemples d'erreurs (s'il y a lieu) :
+
+E6. Option 4 : Quitter (1.5/2)
+Explication ou exemples d'erreurs (s'il y a lieu) :
+(-0.5)
+Le message de fin n'est pas exactement conforme aux spécifications
+(voir exemples d'exécution fournis avec le TP).
+NOTE : Vérifiez si vos points ont bien été additionnés et vérifiez que la note finale est bien celle qui se trouve sur le Web.

@@ -1,0 +1,829 @@
+Ce programme permet d'effectuer la facturation pour
+la vente de billets dans une station de ski alpin.
+
+====
+MENU
+====
+1. Vente de billets
+2. Consultation des recettes
+3. Reinitialisation
+4. Quitter
+
+Entrez votre choix : 1
+
+----------------
+VENTE DE BILLETS
+----------------
+
+Periodes :
+  A. Jour
+  B. Jour et soir
+  C. Soiree
+  D. Terminer
+
+Entrez votre choix : B
+
+Tranches d'ages :
+  A. 0 - 6
+  B. 7 - 12
+  C. 13 - 24
+  D. 25 - 69
+  E. 70 et +
+  F. Terminer
+
+Entrez votre choix : C
+
+Entrez le nombre de billets : 10
+
+ERREUR. Vous devez entrer un nombre entre 0 et 9 inclusivement. Recommencez...
+
+Entrez le nombre de billets : 3
+
+AJOUT DE 3 BILLET(S) 13 - 24 ans | JOUR / SOIR
+
+Tranches d'ages :
+  A. 0 - 6
+  B. 7 - 12
+  C. 13 - 24
+  D. 25 - 69
+  E. 70 et +
+  F. Terminer
+
+Entrez votre choix : a
+
+Entrez le nombre de billets : 9
+
+AJOUT DE 9 BILLET(S) 0  - 6  ans | JOUR / SOIR
+
+Tranches d'ages :
+  A. 0 - 6
+  B. 7 - 12
+  C. 13 - 24
+  D. 25 - 69
+  E. 70 et +
+  F. Terminer
+
+Entrez votre choix : b
+
+Entrez le nombre de billets : 1
+
+AJOUT DE 1 BILLET(S) 7  - 12 ans | JOUR / SOIR
+
+Tranches d'ages :
+  A. 0 - 6
+  B. 7 - 12
+  C. 13 - 24
+  D. 25 - 69
+  E. 70 et +
+  F. Terminer
+
+Entrez votre choix : a
+
+Entrez le nombre de billets : 2
+
+AJOUT DE 2 BILLET(S) 0  - 6  ans | JOUR / SOIR
+
+Tranches d'ages :
+  A. 0 - 6
+  B. 7 - 12
+  C. 13 - 24
+  D. 25 - 69
+  E. 70 et +
+  F. Terminer
+
+Entrez votre choix : f
+
+Periodes :
+  A. Jour
+  B. Jour et soir
+  C. Soiree
+  D. Terminer
+
+Entrez votre choix : c
+
+Tranches d'ages :
+  A. 0 - 6
+  B. 7 - 12
+  C. 13 - 24
+  D. 25 - 69
+  E. 70 et +
+  F. Terminer
+
+Entrez votre choix : E
+
+Entrez le nombre de billets : 4
+
+AJOUT DE 4 BILLET(S) 70 et + ans | SOIREE     
+
+Tranches d'ages :
+  A. 0 - 6
+  B. 7 - 12
+  C. 13 - 24
+  D. 25 - 69
+  E. 70 et +
+  F. Terminer
+
+Entrez votre choix : e
+
+Entrez le nombre de billets : 1
+
+AJOUT DE 1 BILLET(S) 70 et + ans | SOIREE     
+
+Tranches d'ages :
+  A. 0 - 6
+  B. 7 - 12
+  C. 13 - 24
+  D. 25 - 69
+  E. 70 et +
+  F. Terminer
+
+Entrez votre choix : d
+
+Entrez le nombre de billets : 5
+
+AJOUT DE 5 BILLET(S) 25 - 69 ans | SOIREE     
+
+Tranches d'ages :
+  A. 0 - 6
+  B. 7 - 12
+  C. 13 - 24
+  D. 25 - 69
+  E. 70 et +
+  F. Terminer
+
+Entrez votre choix : F
+
+Periodes :
+  A. Jour
+  B. Jour et soir
+  C. Soiree
+  D. Terminer
+
+Entrez votre choix : A
+
+Tranches d'ages :
+  A. 0 - 6
+  B. 7 - 12
+  C. 13 - 24
+  D. 25 - 69
+  E. 70 et +
+  F. Terminer
+
+Entrez votre choix : c
+
+Entrez le nombre de billets : 2
+
+AJOUT DE 2 BILLET(S) 13 - 24 ans | JOUR       
+
+Tranches d'ages :
+  A. 0 - 6
+  B. 7 - 12
+  C. 13 - 24
+  D. 25 - 69
+  E. 70 et +
+  F. Terminer
+
+Entrez votre choix : F
+
+Periodes :
+  A. Jour
+  B. Jour et soir
+  C. Soiree
+  D. Terminer
+
+Entrez votre choix : d
+
+FACTURE # 1
+
+3 billet(s) | JOUR / SOIR | 13 - 24 ans :   143.52 $
+9 billet(s) | JOUR / SOIR | 0  - 6  ans :   103.68 $
+1 billet(s) | JOUR / SOIR | 7  - 12 ans :   38.92 $
+2 billet(s) | JOUR / SOIR | 0  - 6  ans :   23.04 $
+4 billet(s) | SOIREE      | 70 et + ans :   105.24 $
+1 billet(s) | SOIREE      | 70 et + ans :   26.31 $
+5 billet(s) | SOIREE      | 25 - 69 ans :   163.10 $
+2 billet(s) | JOUR        | 13 - 24 ans :   85.24 $
+
+TOTAL : 689.05 $
+
+Appuyez sur <ENTREE> pour continuer...
+
+====
+MENU
+====
+1. Vente de billets
+2. Consultation des recettes
+3. Reinitialisation
+4. Quitter
+
+Entrez votre choix : 2
+
+-------------------------
+CONSULTATION DES RECETTES
+-------------------------
+
+Recettes : 689.05 $
+
+Appuyez sur <ENTREE> pour continuer...
+
+====
+MENU
+====
+1. Vente de billets
+2. Consultation des recettes
+3. Reinitialisation
+4. Quitter
+
+Entrez votre choix : 1
+
+----------------
+VENTE DE BILLETS
+----------------
+
+Periodes :
+  A. Jour
+  B. Jour et soir
+  C. Soiree
+  D. Terminer
+
+Entrez votre choix : b
+
+Tranches d'ages :
+  A. 0 - 6
+  B. 7 - 12
+  C. 13 - 24
+  D. 25 - 69
+  E. 70 et +
+  F. Terminer
+
+Entrez votre choix : f
+
+Periodes :
+  A. Jour
+  B. Jour et soir
+  C. Soiree
+  D. Terminer
+
+Entrez votre choix : d
+
+---> OPERATION ANNULEE <---
+
+Appuyez sur <ENTREE> pour continuer...
+
+====
+MENU
+====
+1. Vente de billets
+2. Consultation des recettes
+3. Reinitialisation
+4. Quitter
+
+Entrez votre choix : 1
+
+----------------
+VENTE DE BILLETS
+----------------
+
+Periodes :
+  A. Jour
+  B. Jour et soir
+  C. Soiree
+  D. Terminer
+
+Entrez votre choix : a
+
+Tranches d'ages :
+  A. 0 - 6
+  B. 7 - 12
+  C. 13 - 24
+  D. 25 - 69
+  E. 70 et +
+  F. Terminer
+
+Entrez votre choix : a
+
+Entrez le nombre de billets : 0
+
+Tranches d'ages :
+  A. 0 - 6
+  B. 7 - 12
+  C. 13 - 24
+  D. 25 - 69
+  E. 70 et +
+  F. Terminer
+
+Entrez votre choix : f
+
+Periodes :
+  A. Jour
+  B. Jour et soir
+  C. Soiree
+  D. Terminer
+
+Entrez votre choix : d
+
+---> OPERATION ANNULEE <---
+
+Appuyez sur <ENTREE> pour continuer...
+
+====
+MENU
+====
+1. Vente de billets
+2. Consultation des recettes
+3. Reinitialisation
+4. Quitter
+
+Entrez votre choix : 1
+
+----------------
+VENTE DE BILLETS
+----------------
+
+Periodes :
+  A. Jour
+  B. Jour et soir
+  C. Soiree
+  D. Terminer
+
+Entrez votre choix : C
+
+Tranches d'ages :
+  A. 0 - 6
+  B. 7 - 12
+  C. 13 - 24
+  D. 25 - 69
+  E. 70 et +
+  F. Terminer
+
+Entrez votre choix : d
+
+Entrez le nombre de billets : 3
+
+AJOUT DE 3 BILLET(S) 25 - 69 ans | SOIREE     
+
+Tranches d'ages :
+  A. 0 - 6
+  B. 7 - 12
+  C. 13 - 24
+  D. 25 - 69
+  E. 70 et +
+  F. Terminer
+
+Entrez votre choix : F
+
+Periodes :
+  A. Jour
+  B. Jour et soir
+  C. Soiree
+  D. Terminer
+
+Entrez votre choix : D
+
+FACTURE # 2
+
+3 billet(s) | SOIREE      | 25 - 69 ans :   97.86 $
+
+TOTAL : 97.86 $
+
+Appuyez sur <ENTREE> pour continuer...
+
+====
+MENU
+====
+1. Vente de billets
+2. Consultation des recettes
+3. Reinitialisation
+4. Quitter
+
+Entrez votre choix : 2
+
+-------------------------
+CONSULTATION DES RECETTES
+-------------------------
+
+Recettes : 786.91 $
+
+Appuyez sur <ENTREE> pour continuer...
+
+====
+MENU
+====
+1. Vente de billets
+2. Consultation des recettes
+3. Reinitialisation
+4. Quitter
+
+Entrez votre choix : 1
+
+----------------
+VENTE DE BILLETS
+----------------
+
+Periodes :
+  A. Jour
+  B. Jour et soir
+  C. Soiree
+  D. Terminer
+
+Entrez votre choix : a
+
+Tranches d'ages :
+  A. 0 - 6
+  B. 7 - 12
+  C. 13 - 24
+  D. 25 - 69
+  E. 70 et +
+  F. Terminer
+
+Entrez votre choix : e
+
+Entrez le nombre de billets : 3
+
+AJOUT DE 3 BILLET(S) 70 et + ans | JOUR       
+
+Tranches d'ages :
+  A. 0 - 6
+  B. 7 - 12
+  C. 13 - 24
+  D. 25 - 69
+  E. 70 et +
+  F. Terminer
+
+Entrez votre choix : c
+
+Entrez le nombre de billets : 2
+
+AJOUT DE 2 BILLET(S) 13 - 24 ans | JOUR       
+
+Tranches d'ages :
+  A. 0 - 6
+  B. 7 - 12
+  C. 13 - 24
+  D. 25 - 69
+  E. 70 et +
+  F. Terminer
+
+Entrez votre choix : d
+
+Entrez le nombre de billets : 1
+
+AJOUT DE 1 BILLET(S) 25 - 69 ans | JOUR       
+
+Tranches d'ages :
+  A. 0 - 6
+  B. 7 - 12
+  C. 13 - 24
+  D. 25 - 69
+  E. 70 et +
+  F. Terminer
+
+Entrez votre choix : f
+
+Periodes :
+  A. Jour
+  B. Jour et soir
+  C. Soiree
+  D. Terminer
+
+Entrez votre choix : d
+
+FACTURE # 3
+
+3 billet(s) | JOUR        | 70 et + ans :   112.20 $
+2 billet(s) | JOUR        | 13 - 24 ans :   85.24 $
+1 billet(s) | JOUR        | 25 - 69 ans :   56.53 $
+
+TOTAL : 253.97 $
+
+Appuyez sur <ENTREE> pour continuer...
+
+====
+MENU
+====
+1. Vente de billets
+2. Consultation des recettes
+3. Reinitialisation
+4. Quitter
+
+Entrez votre choix : 2
+
+-------------------------
+CONSULTATION DES RECETTES
+-------------------------
+
+Recettes : 1040.88 $
+
+Appuyez sur <ENTREE> pour continuer...
+
+====
+MENU
+====
+1. Vente de billets
+2. Consultation des recettes
+3. Reinitialisation
+4. Quitter
+
+Entrez votre choix : 1
+
+----------------
+VENTE DE BILLETS
+----------------
+
+Periodes :
+  A. Jour
+  B. Jour et soir
+  C. Soiree
+  D. Terminer
+
+Entrez votre choix : b
+
+Tranches d'ages :
+  A. 0 - 6
+  B. 7 - 12
+  C. 13 - 24
+  D. 25 - 69
+  E. 70 et +
+  F. Terminer
+
+Entrez votre choix : c
+
+Entrez le nombre de billets : 5
+
+AJOUT DE 5 BILLET(S) 13 - 24 ans | JOUR / SOIR
+
+Tranches d'ages :
+  A. 0 - 6
+  B. 7 - 12
+  C. 13 - 24
+  D. 25 - 69
+  E. 70 et +
+  F. Terminer
+
+Entrez votre choix : f
+
+Periodes :
+  A. Jour
+  B. Jour et soir
+  C. Soiree
+  D. Terminer
+
+Entrez votre choix : a
+
+Tranches d'ages :
+  A. 0 - 6
+  B. 7 - 12
+  C. 13 - 24
+  D. 25 - 69
+  E. 70 et +
+  F. Terminer
+
+Entrez votre choix : b
+
+Entrez le nombre de billets : 2
+
+AJOUT DE 2 BILLET(S) 7  - 12 ans | JOUR       
+
+Tranches d'ages :
+  A. 0 - 6
+  B. 7 - 12
+  C. 13 - 24
+  D. 25 - 69
+  E. 70 et +
+  F. Terminer
+
+Entrez votre choix : f
+
+Periodes :
+  A. Jour
+  B. Jour et soir
+  C. Soiree
+  D. Terminer
+
+Entrez votre choix : c
+
+Tranches d'ages :
+  A. 0 - 6
+  B. 7 - 12
+  C. 13 - 24
+  D. 25 - 69
+  E. 70 et +
+  F. Terminer
+
+Entrez votre choix : d
+
+Entrez le nombre de billets : 7
+
+AJOUT DE 7 BILLET(S) 25 - 69 ans | SOIREE     
+
+Tranches d'ages :
+  A. 0 - 6
+  B. 7 - 12
+  C. 13 - 24
+  D. 25 - 69
+  E. 70 et +
+  F. Terminer
+
+Entrez votre choix : f
+
+Periodes :
+  A. Jour
+  B. Jour et soir
+  C. Soiree
+  D. Terminer
+
+Entrez votre choix : d
+
+FACTURE # 4
+
+5 billet(s) | JOUR / SOIR | 13 - 24 ans :   239.20 $
+2 billet(s) | JOUR        | 7  - 12 ans :   67.84 $
+7 billet(s) | SOIREE      | 25 - 69 ans :   228.34 $
+
+TOTAL : 535.38 $
+
+Appuyez sur <ENTREE> pour continuer...
+
+====
+MENU
+====
+1. Vente de billets
+2. Consultation des recettes
+3. Reinitialisation
+4. Quitter
+
+Entrez votre choix : 2
+
+-------------------------
+CONSULTATION DES RECETTES
+-------------------------
+
+Recettes : 1576.26 $
+
+Appuyez sur <ENTREE> pour continuer...
+
+====
+MENU
+====
+1. Vente de billets
+2. Consultation des recettes
+3. Reinitialisation
+4. Quitter
+
+Entrez votre choix : 3
+
+----------------
+REINITIALISATION
+----------------
+
+---> REINITIALISATION EFFECTUEE <---
+
+Appuyez sur <ENTREE> pour continuer...
+
+====
+MENU
+====
+1. Vente de billets
+2. Consultation des recettes
+3. Reinitialisation
+4. Quitter
+
+Entrez votre choix : 2
+
+-------------------------
+CONSULTATION DES RECETTES
+-------------------------
+
+Recettes : 0.00 $
+
+Appuyez sur <ENTREE> pour continuer...
+
+====
+MENU
+====
+1. Vente de billets
+2. Consultation des recettes
+3. Reinitialisation
+4. Quitter
+
+Entrez votre choix : 1
+
+----------------
+VENTE DE BILLETS
+----------------
+
+Periodes :
+  A. Jour
+  B. Jour et soir
+  C. Soiree
+  D. Terminer
+
+Entrez votre choix : a
+
+Tranches d'ages :
+  A. 0 - 6
+  B. 7 - 12
+  C. 13 - 24
+  D. 25 - 69
+  E. 70 et +
+  F. Terminer
+
+Entrez votre choix : a
+
+Entrez le nombre de billets : 3
+
+AJOUT DE 3 BILLET(S) 0  - 6  ans | JOUR       
+
+Tranches d'ages :
+  A. 0 - 6
+  B. 7 - 12
+  C. 13 - 24
+  D. 25 - 69
+  E. 70 et +
+  F. Terminer
+
+Entrez votre choix : f
+
+Periodes :
+  A. Jour
+  B. Jour et soir
+  C. Soiree
+  D. Terminer
+
+Entrez votre choix : d
+
+FACTURE # 1
+
+3 billet(s) | JOUR        | 0  - 6  ans :   34.56 $
+
+TOTAL : 34.56 $
+
+Appuyez sur <ENTREE> pour continuer...
+
+====
+MENU
+====
+1. Vente de billets
+2. Consultation des recettes
+3. Reinitialisation
+4. Quitter
+
+Entrez votre choix : 2
+
+-------------------------
+CONSULTATION DES RECETTES
+-------------------------
+
+Recettes : 34.56 $
+
+Appuyez sur <ENTREE> pour continuer...
+
+====
+MENU
+====
+1. Vente de billets
+2. Consultation des recettes
+3. Reinitialisation
+4. Quitter
+
+Entrez votre choix : 3
+
+----------------
+REINITIALISATION
+----------------
+
+---> REINITIALISATION EFFECTUEE <---
+
+Appuyez sur <ENTREE> pour continuer...
+
+====
+MENU
+====
+1. Vente de billets
+2. Consultation des recettes
+3. Reinitialisation
+4. Quitter
+
+Entrez votre choix : 2
+
+-------------------------
+CONSULTATION DES RECETTES
+-------------------------
+
+Recettes : 0.00 $
+
+Appuyez sur <ENTREE> pour continuer...
+
+====
+MENU
+====
+1. Vente de billets
+2. Consultation des recettes
+3. Reinitialisation
+4. Quitter
+
+Entrez votre choix : 4
+
+AUREVOIR !
+
+

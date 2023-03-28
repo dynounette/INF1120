@@ -1,0 +1,382 @@
+Ce programme permet d'effectuer la facturation pour
+la vente de billets dans une station de ski alpin.
+
+====
+MENU
+====
+1. Vente de billets
+2. Consultation des recettes
+3. Reinitialisation
+4. Quitter
+
+Entrez votre choix : 2
+
+-------------------------
+CONSULTATION DES RECETTES
+-------------------------
+
+Recettes : 0.00 $
+
+Appuyez sur <ENTREE> pour continuer...
+
+====
+M
+====
+1. Vente de billets
+2. Consultation des recettes
+3. Reinitialisation
+4. Quitter
+
+Entrez votre choix : 3
+
+----------------
+REINITIALISATION
+----------------
+
+---> REINITIALISATION EFFECTUEE <---
+
+Appuyez sur <ENTREE> pour continuer...
+
+====
+MENU
+====
+1. Vente de billets
+2. Consultation des recettes
+3. Reinitialisation
+4. Quitter
+
+Entrez votre choix : 2
+
+-------------------------
+CONSULTATION DES RECETTES
+-------------------------
+
+Recettes : 0.00 $
+
+Appuyez sur <ENTREE> pour continuer...
+
+====
+MENU
+====
+1. Vente de billets
+2. Consultation des recettes
+3. Reinitialisation
+4. Quitter
+
+Entrez votre choix : 1
+
+----------------
+VENTE DE BILLETS
+----------------
+
+Periodes :
+  A. Jour
+  B. Jour et soir
+  C. Soiree
+  D. Terminer
+
+Entrez votre choix : R
+
+ERREUR. Vous devez entrer une lettre entre A et D. Recommencez...
+
+Periodes :
+  A. Jour
+  B. Jour et soir
+  C. Soiree
+  D. Terminer
+
+Entrez votre choix : E
+
+ERREUR. Vous devez entrer une lettre entre A et D. Recommencez...
+
+Periodes :
+  A. Jour
+  B. Jour et soir
+  C. Soiree
+  D. Terminer
+
+Entrez votre choix : _
+
+ERREUR. Vous devez entrer une lettre entre A et D. Recommencez...
+
+Periodes :
+  A. Jour
+  B. Jour et soir
+  C. Soiree
+  D. Terminer
+
+Entrez votre choix : D
+
+---> OPERATION ANNULEE <---
+
+Appuyez sur <ENTREE> pour continuer...
+
+====
+MENU
+====
+1. Vente de billets
+2. Consultation des recettes
+3. Reinitialisation
+4. Quitter
+
+Entrez votre choix : 1
+
+----------------
+VENTE DE BILLETS
+----------------
+
+Periodes :
+  A. Jour
+  B. Jour et soir
+  C. Soiree
+  D. Terminer
+
+Entrez votre choix : C
+
+Tranches d'ages :
+  A. 0 - 6
+  B. 7 - 12
+  C. 13 - 24
+  D. 25 - 69
+  E. 70 et +
+  F. Terminer
+
+Entrez votre choix : 2
+
+ERREUR. Vous devez entrer une lettre entre A et F. Recommencez...
+
+Tranches d'ages :
+  A. 0 - 6
+  B. 7 - 12
+  C. 13 - 24
+  D. 25 - 69
+  E. 70 et +
+  F. Terminer
+
+Entrez votre choix : G
+
+ERREUR. Vous devez entrer une lettre entre A et F. Recommencez...
+
+Tranches d'ages :
+  A. 0 - 6
+  B. 7 - 12
+  C. 13 - 24
+  D. 25 - 69
+  E. 70 et +
+  F. Terminer
+
+Entrez votre choix : !
+
+ERREUR. Vous devez entrer une lettre entre A et F. Recommencez...
+
+Tranches d'ages :
+  A. 0 - 6
+  B. 7 - 12
+  C. 13 - 24
+  D. 25 - 69
+  E. 70 et +
+  F. Terminer
+
+Entrez votre choix : f
+
+Periodes :
+  A. Jour
+  B. Jour et soir
+  C. Soiree
+  D. Terminer
+
+Entrez votre choix : e
+
+ERREUR. Vous devez entrer une lettre entre A et D. Recommencez...
+
+Periodes :
+  A. Jour
+  B. Jour et soir
+  C. Soiree
+  D. Terminer
+
+Entrez votre choix : 7
+
+ERREUR. Vous devez entrer une lettre entre A et D. Recommencez...
+
+Periodes :
+  A. Jour
+  B. Jour et soir
+  C. Soiree
+  D. Terminer
+
+Entrez votre choix : d
+
+---> OPERATION ANNULEE <---
+
+Appuyez sur <ENTREE> pour continuer...
+
+====
+MENU
+====
+1. Vente de billets
+2. Consultation des recettes
+3. Reinitialisation
+4. Quitter
+
+Entrez votre choix : 2
+
+-------------------------
+CONSULTATION DES RECETTES
+-------------------------
+
+Recettes : 0.00 $
+
+Appuyez sur <ENTREE> pour continuer...
+
+====
+MENU
+====
+1. Vente de billets
+2. Consultation des recettes
+3. Reinitialisation
+4. Quitter
+
+Entrez votre choix : 1
+
+----------------
+VENTE DE BILLETS
+----------------
+
+Periodes :
+  A. Jour
+  B. Jour et soir
+  C. Soiree
+  D. Terminer
+
+Entrez votre choix : a
+
+Tranches d'ages :
+  A. 0 - 6
+  B. 7 - 12
+  C. 13 - 24
+  D. 25 - 69
+  E. 70 et +
+  F. Terminer
+
+Entrez votre choix : c
+
+Entrez le nombre de billets : -1
+
+ERREUR. Vous devez entrer un nombre entre 0 et 9 inclusivement. Recommencez...
+
+Entrez le nombre de billets : 10
+
+ERREUR. Vous devez entrer un nombre entre 0 et 9 inclusivement. Recommencez...
+
+Entrez le nombre de billets : 0
+
+Tranches d'ages :
+  A. 0 - 6
+  B. 7 - 12
+  C. 13 - 24
+  D. 25 - 69
+  E. 70 et +
+  F. Terminer
+
+Entrez votre choix : -
+
+ERREUR. Vous devez entrer une lettre entre A et F. Recommencez...
+
+Tranches d'ages :
+  A. 0 - 6
+  B. 7 - 12
+  C. 13 - 24
+  D. 25 - 69
+  E. 70 et +
+  F. Terminer
+
+Entrez votre choix : 3
+
+ERREUR. Vous devez entrer une lettre entre A et F. Recommencez...
+
+Tranches d'ages :
+  A. 0 - 6
+  B. 7 - 12
+  C. 13 - 24
+  D. 25 - 69
+  E. 70 et +
+  F. Terminer
+
+Entrez votre choix : g
+
+ERREUR. Vous devez entrer une lettre entre A et F. Recommencez...
+
+Tranches d'ages :
+  A. 0 - 6
+  B. 7 - 12
+  C. 13 - 24
+  D. 25 - 69
+  E. 70 et +
+  F. Terminer
+
+Entrez votre choix : f
+
+Periodes :
+  A. Jour
+  B. Jour et soir
+  C. Soiree
+  D. Terminer
+
+Entrez votre choix : %
+
+ERREUR. Vous devez entrer une lettre entre A et D. Recommencez...
+
+Periodes :
+  A. Jour
+  B. Jour et soir
+  C. Soiree
+  D. Terminer
+
+Entrez votre choix : e
+
+ERREUR. Vous devez entrer une lettre entre A et D. Recommencez...
+
+Periodes :
+  A. Jour
+  B. Jour et soir
+  C. Soiree
+  D. Terminer
+
+Entrez votre choix : d
+
+---> OPERATION ANNULEE <---
+
+Appuyez sur <ENTREE> pour continuer...
+
+====
+MENU
+====
+1. Vente de billets
+2. Consultation des recettes
+3. Reinitialisation
+4. Quitter
+
+Entrez votre choix : 2
+
+-------------------------
+CONSULTATION DES RECETTES
+-------------------------
+
+Recettes : 0.00 $
+
+Appuyez sur <ENTREE> pour continuer...
+
+====
+MENU
+====
+1. Vente de billets
+2. Consultation des recettes
+3. Reinitialisation
+4. Quitter
+
+Entrez votre choix : 4
+
+AUREVOIR !
+
+

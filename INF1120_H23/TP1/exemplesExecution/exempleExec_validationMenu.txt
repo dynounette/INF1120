@@ -1,0 +1,52 @@
+Ce programme permet d'effectuer la facturation pour
+la vente de billets dans une station de ski alpin.
+
+====
+MENU
+====
+1. Vente de billets
+2. Consultation des recettes
+3. Reinitialisation
+4. Quitter
+
+Entrez votre choix : 0
+
+ERREUR ! Vous devez entrer un nombre entre 1 et 4. Recommencez...
+
+====
+MENU
+====
+1. Vente de billets
+2. Consultation des recettes
+3. Reinitialisation
+4. Quitter
+
+Entrez votre choix : 5
+
+ERREUR ! Vous devez entrer un nombre entre 1 et 4. Recommencez...
+
+====
+MENU
+====
+1. Vente de billets
+2. Consultation des recettes
+3. Reinitialisation
+4. Quitter
+
+Entrez votre choix : a
+
+ERREUR ! Vous devez entrer un nombre entre 1 et 4. Recommencez...
+
+====
+MENU
+====
+1. Vente de billets
+2. Consultation des recettes
+3. Reinitialisation
+4. Quitter
+
+Entrez votre choix : 4
+
+AUREVOIR !
+
+
