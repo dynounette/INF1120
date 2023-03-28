@@ -1,6 +1,6 @@
-CODE PERMANENT : MEHD84580003
-NOM            : Mehenni Dyna
-COURRIEL       : mehenni.dyna@courrier.uqam.ca
+CODE PERMANENT : HIDE
+NOM            : HIDE
+COURRIEL       : HIDE
 CORRECTION TP1 - INF1120-20 H23
 NOTE FINALE : 92.3 /100
 Note - avant pénalité : (92.3/100)
