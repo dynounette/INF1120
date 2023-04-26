@@ -2,8 +2,8 @@
  * Ce programme permet la consignation d’objets perdus dans le système, et la recherche de ces objets
  * perdus consignés (par mots clés, par dates, et par
  * catégorie) lorsqu’on vient les réclamer au comptoir.
- * @author Dyna Mehenni
- * Code Permanent: MEHD84580003
+ * @author HIDE
+ * Code Permanent: HIDE
  * Cours : INF1120
  * @version 04/04/2023
  */
