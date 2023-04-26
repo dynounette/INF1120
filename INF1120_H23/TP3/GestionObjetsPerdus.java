@@ -3,8 +3,8 @@
  * Elle permet de supprimer, ajouter et lister les objets perdus. Elle permet également d'afficher les objets par
  * mots clés, date et catégorie. Enfin, elle sauvegarde les résultats dans un fichier texte.
  *
- * @author Dyna Mehenni
- * Code Permanent: MEHD84580003
+ * @author HIDE
+ * Code Permanent: HIDE
  * Cours : INF1120
  * @version 20/04/2023
  */
