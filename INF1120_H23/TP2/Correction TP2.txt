@@ -1,0 +1,71 @@
+CODE PERMANENT : HIDE
+NOM            : HIDE
+COURRIEL       : HIDE
+CORRECTION TP2 - INF1120-20 H23
+NOTE FINALE : 93.3 /100
+Note - avant pénalité : (93.3/100)
+Pénalités (sur la note sur 100) (-)
+Explication des pénalités (s'il y a lieu) :
+
+CORRECTION DU CODE (34/40)
+C1. Préambule du fichier - Javadoc (2/2)
+Explication ou exemples d'erreurs (s'il y a lieu) :
+
+C2. Préambule des méthodes - Javadoc (8/9)
+Explication ou exemples d'erreurs (s'il y a lieu) :
+(-1)
+Vous n'avez pas ajouté une préambule pour la méthode rotationGauche.
+C3. Qualité du code en général (5.5/9)
+Explication ou exemples d'erreurs (s'il y a lieu) :
+(-2)
+Toute méthode doit avoir aucun ou un seul énoncé return.
+
+(-1.5)
+Vous auriez pu mieux optimiser votre code. Par exemple, pour le optimisation (du
+nbr de fois) avec modulo pour RG/RD/PE/PI :
+RG/RD : nbrFois = nbrFois % msg.length();
+PI/PE : if (msg.length() % 2 == 0) nbrFois = nbrFois % msg.length();
+else nbrFois = nbrFois % (msg.length() - 1);
+C4. Séparation fonctionnelle (7.5/9)
+Explication ou exemples d'erreurs (s'il y a lieu) :
+(-1.5)
+Vous auriez pu mieux modulariser votre code. Par exemple, la méthode crypter
+est trop longue. Elle aurait du être séparée en plusieurs méthodes.
+Le code de la ligne 333 à la ligne 348 aurait pu faire l'objet d'une
+méthode.
+C5. Respect du style Java (6/6)
+Explication ou exemples d'erreurs (s'il y a lieu) :
+
+C6. Utilisation de constantes (5/5)
+Explication ou exemples d'erreurs (s'il y a lieu) :
+
+CORRECTION DE L'EXÉCUTION (93/94 = 59.3/60)
+E1. Présentation du logiciel (2/2)
+Explication ou exemples d'erreurs (s'il y a lieu) :
+
+E2. Affichage menu et validation du choix (10/10)
+Explication ou exemples d'erreurs (s'il y a lieu) :
+
+E3.1 Crypter message – validation clé cryptage (7/7)
+Explication ou exemples d'erreurs (s'il y a lieu) :
+
+E3.2 Crypter message - validation du message (6/6)
+Explication ou exemples d'erreurs (s'il y a lieu) :
+
+E3.3 Crypter message – affichage du message encodé (27/27)
+Explication ou exemples d'erreurs (s'il y a lieu) :
+
+E4.1 Décrypter message – validation clé cryptage (7/7)
+Explication ou exemples d'erreurs (s'il y a lieu) :
+
+E4.2 Décrypter message - validation du message (6/6)
+Explication ou exemples d'erreurs (s'il y a lieu) :
+
+E4.3 Décrypter message – affichage du message décodé (27/27)
+Explication ou exemples d'erreurs (s'il y a lieu) :
+
+E5. Quitter (1/2)
+Explication ou exemples d'erreurs (s'il y a lieu) :
+()
+Votre programme n'affiche pas le message de fin.
+NOTE : Vérifiez si vos points ont bien été additionnés et vérifiez que la note finale est bien celle qui se trouve sur votre portail étudiant.
